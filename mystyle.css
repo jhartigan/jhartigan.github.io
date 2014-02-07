@@ -1,6 +1,8 @@
 <!doctype html>
 
-<head>mystyle.css</head>
+<html>
+<head>
+<title>mystyle.css</style>
 <style>
 body{
     background-color:B8B8B8;
@@ -11,5 +13,10 @@ h1{
 p {
     background-color:900000;
 }
+#wrapper{
+    width:960 px;
+    margin:0 auto;
+}
 </style>
+</head>
 </html>
