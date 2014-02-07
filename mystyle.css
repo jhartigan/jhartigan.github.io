@@ -14,3 +14,8 @@ h2{
 p {
     text-align:left;
 }
+
+ul {
+  border: 1em solid #69b;
+  padding-right:1em;
+}
