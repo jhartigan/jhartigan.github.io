@@ -18,3 +18,5 @@ ul {
   border: 1em solid #69b;
   padding-right:1em;
 }
+
+#warning { color:red; font-size:48px; }
