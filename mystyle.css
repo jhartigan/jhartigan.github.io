@@ -1,7 +1,6 @@
-
 html{
-    margin:0;
-    padding:0;
+    margin:10;
+    padding:10;
 }
 
 body{
@@ -15,7 +14,4 @@ p {
     background-color:900000;
 }
 
-#wrapper{
-    width:960 px;
-    margin:0 auto;
 }
