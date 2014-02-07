@@ -1,0 +1,20 @@
+html{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:B8B8B8;
+}
+
+h1{
+    text-align:left;
+}
+p {
+    background-color:900000;
+}
+
+#wrapper{
+    width:960 px;
+    margin:0 auto;
+}
