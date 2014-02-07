@@ -4,14 +4,12 @@ html{
 }
 
 body{
-    background-color:B8B8B8;
+    text-align:center;
 }
 
-h1{
+h2{
     text-align:left;
 }
 p {
-    background-color:900000;
-}
-
+    text-align:right;
 }
