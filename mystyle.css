@@ -31,39 +31,12 @@ p {
     text-align:left;
 }
 
-h6{
-  text-align:left;
-  width:200px;
-  height:100px;  
-}
-
-h7{
-  text-align:left;
-  width:200px;
-  height:170px;  
-}
-
-h8{
-  text-align:left;
-  width:200px;
-  height:130px; 
-}
-h9{
-  text-align:left;
-  width:200px;
-  height:150px;  
-}
-h10{
-    text-align:left;
-    width:200px;
-  height:500px;
-}
-
 ul{
     border: 1em solid #69b;
 }
 li {
    font-size:10px;
    font-family: 'Century';
+   text-align:left;
 }
 
