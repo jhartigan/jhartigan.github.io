@@ -63,6 +63,10 @@ h10{
     width:200px;
   height:500px;
 }
+
+ul{
+    border: 1em solid #69b;
+}
 li {
    font-size:10px;
    font-family: 'Century';
