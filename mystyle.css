@@ -28,4 +28,8 @@ ul {
   padding-right:1em;
 }
 
+li {
+    width:100px;
+    height:150px;
+}
 #warning { color:red; font-size:48px; }
