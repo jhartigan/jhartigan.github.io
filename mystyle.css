@@ -19,13 +19,19 @@ h3{
     text-align:center;
     font-size:12px;
 }
+
+h5{
+    text-align:center;
+    font-size:48px;
+    font-family: 'Castellar';
+}
+
 p {
     text-align:left;
 }
 
 ul {
   border: 10px solid #69b;
-  padding-right:100px;
 }
 
 li {
