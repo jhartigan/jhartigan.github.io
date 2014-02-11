@@ -17,7 +17,7 @@ p{
 {
 	h1{ display:none; }
 	p{ display:block; }
-	body{ display:none; }
+	body{ display:block; }
 }
 
 
