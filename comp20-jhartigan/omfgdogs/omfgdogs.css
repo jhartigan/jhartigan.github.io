@@ -12,12 +12,12 @@ h1{
 
 p{
 	text-align:center;
-	display:block;
+	display:none;
 }
 
 @media only screen and (max-width:991px) {
 	h1{display:none;}
-	p{ visibility:visible; }
-	body{ visibility:hidden; }
+	p{ display:block; }
+	body{ background-image:none; }
 }
 
