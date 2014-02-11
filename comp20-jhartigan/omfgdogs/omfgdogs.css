@@ -1,11 +1,14 @@
 body{
 	background-image:url(omfgdogs.gif);
 	min-width:992px;
+	display:block;
 }
 
 h1{
 	text-align:right;
 	font-size:12px;
+	min-width:992px;
+	display:block;
 }
 
 p{
@@ -13,11 +16,11 @@ p{
 	display:none;
 }
 
-@media only screen and (max-width:992px)
+@media only screen and (min-width:992px)
 {
 	h1{ display:none; }
 	p{ display:block; }
-	body{ display:block; }
+	body{ display:none; }
 }
 
 
